@@ -23,7 +23,6 @@ Check My LinkedIn: [https://www.linkedin.com/in/guseinguseinov/]
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="26" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="26" />
 </p>
----
 
 [mail]: mailto:gusein.guseinov2002@gmail.com
 [linkedin]: https://www.linkedin.com/in/guseinguseinov/
