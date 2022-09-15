@@ -22,7 +22,7 @@ Check My LinkedIn: [https://www.linkedin.com/in/guseinguseinov/]
     <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="linux" width="26" />
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="26" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="26" />
-    <img src="[https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg](https://www.flaticon.com/free-icon/docker_5969059?term=docker&page=1&position=1&page=1&position=1&related_id=5969059&origin=search)" alt="docker" width="26" />
+    <img src="https://www.flaticon.com/free-icon/docker_5969059?term=docker&page=1&position=1&page=1&position=1&related_id=5969059&origin=search" alt="docker" width="26" />
 </p>
 
 [mail]: mailto:gusein.guseinov2002@gmail.com
